@@ -6,6 +6,9 @@
 
 <br>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
 
 - 👋 Hi, I’m @KharismaNabil
 - 👀 I’m interested in FrontEnd Development
